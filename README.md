@@ -1,2 +1,2 @@
 # ResourceGuruTest
-Flatten function and basic calculator.
+Flatten function.
