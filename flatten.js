@@ -6,7 +6,7 @@ function flatten(arr) {
     if (Array.isArray(arr[i])) {
       res = res.concat(flatten(arr[i]));
     } else {
-      res = res.concat(arr[i]);
+      res.push(arr[i]);
     }
   }
   return res;
