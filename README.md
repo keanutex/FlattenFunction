@@ -1,2 +1,2 @@
-# ResourceGuruTest
+# FlattenFunction
 Flatten function.
